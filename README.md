@@ -1,2 +1,2 @@
 # demo_git
-un demo rapide
+une demo rapidement
